@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 02f4e6ddcd3215c40b717efccc0e3860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 124000485376
+    m_Localized: 'Coins:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1293376634880
+    m_Localized: Achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1422443757568
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1489619730432
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542702841856
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1724534308864
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399876470521856
+    m_Localized: Fake balloon remove count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2917299522715648
+    m_Localized: You don't have enough points!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2920530470584320
+    m_Localized: Standart balloon bonus count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926167225090048
+    m_Localized: Need scores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2926264520359936
+    m_Localized: New remove scores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927206842056704
+    m_Localized: 'New add scores:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927685181456384
+    m_Localized: Do you want buy this item, to get  remove scores?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2928198455214080
+    m_Localized: Do you want buy this item, to get  add scores?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966332471590912
+    m_Localized: Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969957558206464
+    m_Localized: Do you want buy this item, to get new background?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3661032706883584
+    m_Localized: Solve
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
